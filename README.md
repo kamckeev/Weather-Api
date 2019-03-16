@@ -8,3 +8,5 @@ There are no strong trends among the other weather features analyzed. Comparing 
 Comparing cloud cover across latitudes produce no correlation either, though there are clusters of cities with 0, 75, and 90% cloud covers.
 
 A comparison of wind speed across latitudes has no strong correlations either. A majority of cities sampled are enjoying a leisurely wind speed right around 3mph.
+
+More trends might have been seen if plotted across equitorial distance instead of lat/long, to analyze across a three-dimensional sphere instaead of a two-dimensional lat/long grid.
